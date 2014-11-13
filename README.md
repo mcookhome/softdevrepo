@@ -18,6 +18,12 @@ Used the google module with regular expressions to create who and when search en
 Used SQL to make a blogging engine with commenting and posting functionality.
 #### https://github.com/afischer/SoftDev_Proj02.git
 
+### Tubby-Cook
+#### Partner: Terrance Liang
+#### Description
+Yelp/Spotify API fun (a user can input a food and a location, then choose a restaurant to create a playlist for that restaurant to listen to on Spotify).
+#### https://github.com/mcookhome/tubby-cook.git
+
 ## Mini Projects
 
  * login
