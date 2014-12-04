@@ -26,6 +26,12 @@ Yelp/Spotify API fun (a user can input a food and a location, then choose a rest
 
 ## Mini Projects
 
+ * invisible-cow (santa)
+  * Matthew Cook, Terrance Liang
+  * 6/invisible-cow/matthew_terrance
+ * todo
+  * Matthew Cook
+  * 6/todo/matthew_cook
  * login
   * Matthew Cook, Eric Morgenstern
   * 6/login/morgenstern_matt
@@ -35,5 +41,6 @@ Yelp/Spotify API fun (a user can input a food and a location, then choose a rest
  * intro-proj 1
   * Matthew Cook, Aaron Mortenson
   * 6/intro-proj1/mortenson_cook
+
 
 
