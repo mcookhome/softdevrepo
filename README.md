@@ -4,6 +4,10 @@ Matthew Cook
 # Fall Semester
 Period 6
 
+## Final Projects
+### Stem
+#### Partners: Sadman Fahmid, Eric Liao, Terrance Liang
+
 ## Main Projects
 
 ### Whogle/Whengle
