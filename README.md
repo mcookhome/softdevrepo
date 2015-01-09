@@ -5,7 +5,7 @@ Matthew Cook
 Period 6
 
 ## Final Projects
-### Stem
+### STEM
 #### Partners: Sadman Fahmid, Eric Liao, Terrance Liang
 
 ## Main Projects
